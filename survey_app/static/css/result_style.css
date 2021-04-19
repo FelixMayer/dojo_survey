@@ -1,0 +1,8 @@
+#container {
+    width: 1000px;
+}
+
+#form_name {
+    width: 500px;
+    left: 50%
+}
